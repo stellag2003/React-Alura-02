@@ -1,5 +1,4 @@
 import styles from "./menu.module.css";
-import { Link } from "react-router-dom";
 import MenuLink from "../MenuLink";
 
 export default function Menu() {
